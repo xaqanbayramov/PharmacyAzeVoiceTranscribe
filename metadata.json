@@ -1,0 +1,6 @@
+{
+  "name": "Pharmacy Voice Transcriber & Sale Analyzer",
+  "description": "Accurately transcribes pharmacy audio in mixed Azerbaijani and Russian, recognizes complex medical terminology, and detects whether a sale occurred.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
